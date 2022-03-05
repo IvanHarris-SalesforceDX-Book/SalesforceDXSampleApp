@@ -1,0 +1,42 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Sample Account",
+            "Cases": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Case",
+                            "referenceId": "CaseRef1"
+                        },
+                        "Origin": "Web",
+                        "Status": "New",
+                        "Subject": "Broken widget"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Case",
+                            "referenceId": "CaseRef2"
+                        },
+                        "Origin": "Phone",
+                        "Status": "New",
+                        "Subject": "Widget not arrived"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Case",
+                            "referenceId": "CaseRef3"
+                        },
+                        "Origin": "Email",
+                        "Status": "New",
+                        "Subject": "Wrong colour widget"
+                    }
+                ]
+            }
+        }
+    ]
+}
