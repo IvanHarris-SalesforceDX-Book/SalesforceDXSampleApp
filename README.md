@@ -48,7 +48,7 @@ This is the sample application that accompanies the Beginning Salesforce DX book
 
 1. From the **Components** list, drag the **caseInfo** component onto the page.
 
-1. Click the **Save** button and in the *Page Saved* confirmation dialog, click the **Activate** button. This will open the *Activation: Home Page Default* dialog, click the **Assign as Org Default** button. Click the **Save** button in the *Set as Org Default: Home Page Default* dialog that appears.
+1. Click the **Save** button and in the *Page Saved* confirmation dialog, click the **Activate** button. This will open the *Activation: Account Record Page Default* dialog, click the **Assign as Org Default** button. Click the **Next** button in the *Assign form factor* dialog that appears. Finally, click the **Save** button in the *Review assignment* dialog.
 
 1. Exit the Lightning *App Builder* by clicking the **arrow** button.
 
